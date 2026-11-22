@@ -1,0 +1,39 @@
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Logs / temporary
+*.log
+tmp/
+temp/
+
+# Claude local/runtime state
+.claude/settings.local.json
+
+# Node
+node_modules/
+dist/
+build/
+coverage/
+
+# Python
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# Power Platform generated packages
+*.msapp
+*.zip
+bin/
+obj/
