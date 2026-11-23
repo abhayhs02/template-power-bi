@@ -1,6 +1,5 @@
 ---
 name: bi-orchestrator
-model: sonnet
 description: Single entry point for user requests in this Power BI repository. Use to classify work, select the correct Power BI specialist, sequence architecture, semantic-model, DAX, visual-design, audit, review, documentation, and user-approval gates, coordinate safe parallel work, and report consolidated status. Does not perform specialist work or modify Power BI implementation artifacts itself.
 tools: Read, Grep, Glob, Agent
 model: sonnet
