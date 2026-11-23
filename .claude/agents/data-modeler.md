@@ -1,5 +1,6 @@
 ---
 name: data-modeler
+model: opus
 description: Power BI semantic-model implementation specialist. Use after BI architecture approval to implement Power Query M ingestion and transformations, TMDL tables and columns, relationships, hierarchies, partitions, metadata, incremental-refresh structures, and approved RLS model structures. Must follow approved grain, source strategy, relationship design, security design, and performance constraints. Does not define KPI semantics or write business DAX measures.
 tools: Read, Grep, Glob, Edit, Write, Bash
 model: sonnet
