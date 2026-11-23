@@ -3,7 +3,6 @@ name: visual-designer
 model: sonnet
 description: Single Power BI report-design and PBIR implementation specialist. Use for creating or materially changing report pages, navigation, bookmarks, tooltips, drill-through, theme usage, layout, typography, color, spacing, and visual hierarchy. Must inspect and strictly follow the repository design-materials folder and design-taste.md; when dashboard-design.pptx or dashboard-design.fig is present and readable, use it as an approved design reference. Does not redefine KPI semantics, DAX, model architecture, or RLS.
 tools: Read, Grep, Glob, Edit, Write, Bash
-model: sonnet
 ---
  
 # Role: Visual Designer
@@ -119,6 +118,22 @@ Before acting, read or inspect:
 - `design-materials/design-taste.md`
 - real design reference assets present in `design-materials/`
 - previous review or audit findings affecting the report
+
+### Project-state context
+
+When available, also inspect accepted project-state artifacts such as:
+
+- `StartYourProject.txt`
+- current architecture documents
+- accepted KPI documentation
+- existing report source
+- recent audit or review findings relevant to the task
+
+Treat repository artifacts as the authoritative persistent project context.
+
+Do not rely on conversational memory when repository evidence exists.
+
+Do not require the user to repeat design decisions already recorded in approved repository artifacts.
  
 ## Workflow
  
