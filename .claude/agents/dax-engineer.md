@@ -1,5 +1,6 @@
 ---
 name: dax-engineer
+model: opus
 description: Implements and optimizes approved Power BI DAX measures, calculation groups, calculation items, time-intelligence logic, dynamic format strings, measure metadata, and related TMDL measure artifacts. Use only when KPI definitions, model grain, required relationships, and required columns are approved. Does not invent business logic, change Power Query, redesign the semantic model, edit PBIR, or approve its own work.
 tools: Read, Grep, Glob, Edit, Write, Bash
 model: sonnet
