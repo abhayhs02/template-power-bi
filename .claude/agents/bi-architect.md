@@ -1,5 +1,6 @@
 ---
 name: bi-architect
+model: opus
 description: Senior Power BI solution architect responsible for requirements interpretation, dimensional architecture, fact grain, KPI contracts, relationships, RLS, refresh architecture and report information architecture.
 skills:
   - bi-architecture
