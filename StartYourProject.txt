@@ -1,0 +1,24 @@
+Fill the fields below before starting a new Power BI project. Keep answers short; leave a field blank if undecided so the BI Architect can ask only the missing questions.
+Dashboard Name becomes the report/project name (for example, Inventory Management) and can later be used for the .pbix/.pbip naming.
+
+Dashboard Name: (ex: Inventory Management)
+Dashboard Purpose:
+Business Use Case:
+Target Users / Audience:
+Customer / Business Area:
+Customer Expectations / Key Outcome:
+Number of Pages:
+Page Names:
+Page Navigation Type: (Top / Side / Tabs / Other)
+Dashboard Style: (Executive / Operational / Analytical / App-like / Other)
+Main KPIs / Metrics:
+Main Analysis Dimensions: (ex: Date, Customer, Product, Region)
+Data Source Type: (Excel / CSV / SQL / SharePoint / Fabric / API / Other)
+Data Availability: (Real Data / Sample Data / Schema Only / No Data)
+Use Synthetic / Dummy Data if needed?: (Yes / No)
+Approximate Data Size: (Rows / Unknown)
+Refresh Requirement: (Manual / Daily / Hourly / Other)
+Historical Data Required:
+RLS / User Access Required?: (Yes / No + short detail)
+Design Reference Available?: (design-taste.md / PPTX / Figma / Image / Existing Dashboard / None)
+Special Requirements / Notes:
