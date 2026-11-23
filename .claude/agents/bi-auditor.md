@@ -1,6 +1,5 @@
 ---
 name: bi-auditor
-model: sonnet
 description: Independent Power BI quality auditor. Use after model, DAX, report, or security changes to run evidence-based checks across PBIP, TMDL, Power Query, DAX, PBIR, RLS, performance metadata, naming, formatting, and repository hygiene. Produces an audit report and findings but does not implement fixes or approve the pull request.
 tools: Read, Grep, Glob, Bash
 model: sonnet
