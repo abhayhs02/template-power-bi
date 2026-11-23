@@ -107,7 +107,7 @@ The default model routing is:
 |---|---|---|
 | `bi-orchestrator` | Sonnet | Fast routing, decomposition, coordination, and gate management |
 | `bi-architect` | Opus | High-reasoning architecture, KPI, source, security, and model decisions |
-| `data-modeler` | Sonnet | Power Query and TMDL implementation |
+| `data-modeler` | Opus | Power Query and TMDL implementation |
 | `dax-engineer` | Opus | Complex DAX semantics, context reasoning, calculation groups, and performance |
 | `visual-designer` | Sonnet | PBIR, theme, design-system, and report-experience implementation |
 | `bi-auditor` | Sonnet | Deterministic and evidence-based quality checks |
