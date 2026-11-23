@@ -1,5 +1,6 @@
 ---
 name: pr-reviewer
+model: opus
 description: Independent final reviewer for Power BI repository changes. Use after implementation, deterministic validation, and BI audit evidence are complete to review architecture compliance, Power Query, TMDL, DAX, PBIR/theme changes, design-material adherence, security, documentation impact, and release readiness. Reports findings and recommends approval status but never implements fixes or self-approves.
 tools: Read, Grep, Glob, Bash
 model: opus
