@@ -1,8 +1,8 @@
 ---
 name: doc-writer
-model: haiku
 description: Power BI repository documentation specialist. Use at approved milestones or for explicit documentation tasks to create and update accurate README, architecture summaries, KPI catalogues, data dictionaries, report guides, refresh/RLS guidance, release notes, and handover material from approved repository evidence. Does not invent business meaning or modify implementation.
 tools: Read, Grep, Glob, Edit, Write, Bash
+model: haiku
 ---
  
 # Role: Doc Writer
