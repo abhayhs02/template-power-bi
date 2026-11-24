@@ -11,10 +11,21 @@ Number of Pages:
 Page Names:
 Page Navigation Type: (Top / Side / Tabs / Other)
 Dashboard Style: (Executive / Operational / Analytical / App-like / Other)
+
 Canvas Type: Standard 16:9/Custom/Visual Designer will decide
 Custom Width x Height of Canvas: None/2360 px × 1090 px(Full Browser Screen Type)/1580 px × Custom Width (Scrollable Type Design) 
 Scrolling Preference: None/Vertical scrolling allowed/Vertical scrolling preferred for detailed pages/Let the Visual Designer decide
 Additional Canvas Notes: give a description
+
+Mandatory Pages: Page 1, Page 2, Page 3..
+Page 1 Description:
+Page 2 Description:
+Page 3 Description:
+
+Slicers required: Slicer 1, Slicer 2...
+Slicer 1 Description:
+Slicer 1 Description:
+
 Main KPIs / Metrics:
 Main Analysis Dimensions: (ex: Date, Customer, Product, Region)
 Data Source Type: (Excel / CSV / SQL / SharePoint / Fabric / API / Other)
